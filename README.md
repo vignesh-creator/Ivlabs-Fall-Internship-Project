@@ -1,9 +1,3 @@
 # MNIST-Digit-Classifier
 
-This Repository contains Models to classify Handwritten Digit Dataset(MNIST) using pytorch
-
-The first pyTorch model is a Multi Layer Perceptron Model which classifies Handwritten Digits
-
-The second pyTorch model is programmed using Convolution Neural Networks
-
-The Final task of the internship is to build MNIST digit classifier using Residual Networks
+This project is done as a part of Ivlabs Fall Internship.The Aim is to explore the concepts of Deep Learning and Mathematics behind it.The final end goal is to build a Residual Network to classify MNIST Handwritten Digits

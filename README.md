@@ -7,7 +7,7 @@
 
 in your terminal
 
-* All the results, loss plots, Image predictions are given in the .ipynb Notebooks too. The .ipynb notebooks are also there in the repo so that you can run them easily on platforms like Colab. You can just upload the .ipynb notebooks in your colab/jupyter notebook and simply run them to view results.
+* All the results, loss plots, Image predictions are given in the .ipynb Notebooks too. The .ipynb notebooks are also available in this repository so that you can run them easily on platforms like Colab. You can just upload the .ipynb notebooks in your colab/jupyter notebook and simply run them to view results.
 
 
 

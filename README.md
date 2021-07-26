@@ -14,29 +14,45 @@ in your terminal
 ---
 
 
-#### Results by Fully Connected model
-Loss plot
-
-![](https://i.imgur.com/q92gscY.png)
-![](https://i.imgur.com/FLFr0Cx.png)
-
----
-
-#### Results by Model built using Convolution Neural Networks
-Loss plot
-
-![](https://i.imgur.com/rGrIeDc.png)
-
-![](https://i.imgur.com/tOfbXVp.png)
-
----
-
-#### Results by Residual Networks
+### Results by Residual Networks
 Loss plot
 
 ![](https://i.imgur.com/GTAKGfO.png)
 
 #### Accuracy: 99.02
+
+
+#### Prediction on a Test Image
+
+![](https://i.imgur.com/GWwemJQ.png)
+
+
+---
+
+### Results by Model built using Convolution Neural Networks
+Loss plot
+
+![](https://i.imgur.com/FN73cZ1.png)
+![](https://i.imgur.com/tOfbXVp.png)
+
+#### Prediction on a Test Image
+
+![](https://i.imgur.com/FNpZ913.png)
+
+
+---
+
+#### Fully Connected model
+Loss plot
+
+![](https://i.imgur.com/KAys1uC.png)
+![](https://i.imgur.com/othQsEh.png)
+
+
+#### Prediction on a Test Image
+
+![](https://i.imgur.com/FNpZ913.png)
+
 
 
 

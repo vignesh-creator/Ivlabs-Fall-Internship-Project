@@ -1,5 +1,6 @@
 # MNIST Digit Classification
-* This project is done as a part of Fall Internship at Ivlabs
+* This project is done as a part of Fall Internship at Ivlabs. 
+* The Internship is Aimed at studying the Concepts of Deep Learning
 * The project is to classify Famous MNIST Handwritten Digits using Fully Connected,Convolution and Residual Networks
 * The Models are able to classify MNIST handwritten Digits with high Accuracy
 * To train the Model and plot the loss for both train and test, then type

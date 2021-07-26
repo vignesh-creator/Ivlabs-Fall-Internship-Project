@@ -1,11 +1,9 @@
 # MNIST Digit Classification
-* This project is done as a part of Fall Internship at Ivlabs. 
-* The Internship is Aimed at studying the Concepts of Deep Learning
 * The project is to classify Famous MNIST Handwritten Digits using Fully Connected,Convolution and Residual Networks
+* This project is done as a part of Fall Internship at Ivlabs.The Internship is Aimed at studying the Concepts of Deep Learning
 * The Models are able to classify MNIST handwritten Digits with high Accuracy
-* To train the Model and plot the loss for both train and test, then type
+* To train the Model and check the Accuracy of the Model on test data,type
 > python test.py
-
 in your terminal
 
 * All the results, loss plots, Image predictions are given in the .ipynb Notebooks too. The .ipynb notebooks are also available in this repository so that you can run them easily on platforms like Colab. You can just upload the .ipynb notebooks in your colab/jupyter notebook and simply run them to view results.

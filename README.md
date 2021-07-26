@@ -9,12 +9,18 @@ in your terminal
 
 * All the results, loss plots, Image predictions are given in the .ipynb Notebooks too. The .ipynb notebooks are also there in the repo so that you can run them easily on platforms like Colab. You can just upload the .ipynb notebooks in your colab/jupyter notebook and simply run them to view results.
 
+
+
+---
+
+
 #### Results by Fully Connected model
 Loss plot
 
 ![](https://i.imgur.com/q92gscY.png)
 ![](https://i.imgur.com/FLFr0Cx.png)
 
+---
 
 #### Results by Model built using Convolution Neural Networks
 Loss plot
@@ -22,6 +28,8 @@ Loss plot
 ![](https://i.imgur.com/rGrIeDc.png)
 
 ![](https://i.imgur.com/tOfbXVp.png)
+
+---
 
 #### Results by Residual Networks
 Loss plot

@@ -1,5 +1,5 @@
 # MNIST Digit Classification
-* The project is to classify Famous MNIST Handwritten Digits using Fully Connected,Convolution and Residual Networks
+* The project is to classify Famous MNIST Handwritten Digits Dataset using Fully Connected,Convolution and Residual Networks
 * This project is done as a part of Fall Internship at Ivlabs.The Internship is Aimed at studying the Concepts of Deep Learning
 * The Models are able to classify MNIST handwritten Digits with high Accuracy
 * To train the Model and check the Accuracy of the Model on test data,type

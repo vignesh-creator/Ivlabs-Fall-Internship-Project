@@ -14,7 +14,7 @@ in your terminal
 ---
 
 
-### Results by Residual Networks
+### Results by Model built using Residual Networks
 Loss plot
 
 ![](https://i.imgur.com/GTAKGfO.png)

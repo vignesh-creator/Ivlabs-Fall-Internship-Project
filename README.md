@@ -42,7 +42,7 @@ Loss plot
 
 ---
 
-#### Fully Connected model
+#### Fully Connected deep Neural Network model
 Loss plot
 
 ![](https://i.imgur.com/KAys1uC.png)

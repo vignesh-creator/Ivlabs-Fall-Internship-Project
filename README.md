@@ -3,7 +3,10 @@
 * This project is done as a part of Fall Internship at Ivlabs.The Internship is Aimed at studying the Concepts of Deep Learning
 * The Models are able to classify MNIST handwritten Digits with high Accuracy
 * To train the Model and check the Accuracy of the Model on test data,type
-> python test.py
+
+```
+python test.py
+```
   
 in your terminal
 

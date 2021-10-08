@@ -19,6 +19,7 @@ in your terminal
 
 ### Results by Model built using Residual Networks
 (Every network is trained for 5 epochs)
+
 Loss plot
 
 ![](https://i.imgur.com/GTAKGfO.png)

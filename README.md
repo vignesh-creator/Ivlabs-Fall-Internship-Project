@@ -17,7 +17,7 @@ in your terminal
 ---
 
 
-### Results by Model built using Residual Networks
+### Using Residual Networks
 (Every network is trained for 5 epochs)
 
 Loss plot
@@ -34,7 +34,7 @@ Loss plot
 
 ---
 
-### Results by Model built using Convolution Neural Networks
+### Using Convolution Neural Networks
 Loss plot
 
 ![](https://i.imgur.com/FN73cZ1.png)
@@ -47,7 +47,7 @@ Loss plot
 
 ---
 
-#### Fully Connected deep Neural Network model
+### Using Fully Connected Networks
 Loss plot
 
 ![](https://i.imgur.com/KAys1uC.png)
